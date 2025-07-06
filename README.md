@@ -7,9 +7,7 @@ Un semplice script Python da terminale per scaricare video, audio o entrambi da 
 
 ## 🚀 Funzionalità
 
-- ✅ Scarica solo video (senza audio)  
-- ✅ Scarica solo audio (MP3)  
-- ✅ Scarica video + audio (qualità massima)  
+- ✅ Scarica video di Youtube e TikTok (qualità massima)  
 - ✅ Salva i file nella cartella `Output`  
 - ✅ Apre automaticamente la cartella al termine (Windows)  
 - ✅ Interfaccia a colori nel terminale  
