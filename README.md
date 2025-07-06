@@ -24,18 +24,9 @@ Un semplice script Python da terminale per scaricare video, audio o entrambi da 
 - termcolor  
 - **FFmpeg** (obbligatorio per unire video/audio e convertire in MP3)  
 
----
-
-## ⚙️ Installazione delle dipendenze Python
-
-Apri il terminale e digita:
-
-```bash
-pip install yt-dlp termcolor
-
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🧱 Come installare FFmpeg su Windows (passaggi completi)
+# 🧱 Come installare FFmpeg su Windows (passaggi completi)
 ⚠️ FFmpeg è obbligatorio per:
 
 Unire video e audio (opzione 3)
